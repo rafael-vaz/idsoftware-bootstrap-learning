@@ -1,0 +1,16 @@
+@model int
+  <div class="card">
+      <div class="card-img">
+          <img src= @("/imagens/projeto" + @Model + ".png") class="img-fluid">
+      </div>
+      
+      <div class="card-body">
+      <h4 class="card-title">Projeto @Model da ID</h4>
+          <p class="card-text">
+              In hac habitasse platea dictumst. Suspendisse mattis mattis semper.
+          </p>
+      </div>
+      <div class="card-footer">
+          <a href="" class="card-link">Saiba Mais</a>
+      </div>
+  </div>

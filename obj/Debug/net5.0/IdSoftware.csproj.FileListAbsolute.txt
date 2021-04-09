@@ -1,0 +1,158 @@
+/home/rafael/Área de Trabalho/IdSoftware/bin/Debug/net5.0/appsettings.Development.json
+/home/rafael/Área de Trabalho/IdSoftware/bin/Debug/net5.0/appsettings.json
+/home/rafael/Área de Trabalho/IdSoftware/bin/Debug/net5.0/IdSoftware
+/home/rafael/Área de Trabalho/IdSoftware/bin/Debug/net5.0/IdSoftware.deps.json
+/home/rafael/Área de Trabalho/IdSoftware/bin/Debug/net5.0/IdSoftware.runtimeconfig.json
+/home/rafael/Área de Trabalho/IdSoftware/bin/Debug/net5.0/IdSoftware.runtimeconfig.dev.json
+/home/rafael/Área de Trabalho/IdSoftware/bin/Debug/net5.0/IdSoftware.dll
+/home/rafael/Área de Trabalho/IdSoftware/bin/Debug/net5.0/ref/IdSoftware.dll
+/home/rafael/Área de Trabalho/IdSoftware/bin/Debug/net5.0/IdSoftware.pdb
+/home/rafael/Área de Trabalho/IdSoftware/bin/Debug/net5.0/IdSoftware.Views.dll
+/home/rafael/Área de Trabalho/IdSoftware/bin/Debug/net5.0/IdSoftware.Views.pdb
+/home/rafael/Área de Trabalho/IdSoftware/obj/Debug/net5.0/IdSoftware.csprojAssemblyReference.cache
+/home/rafael/Área de Trabalho/IdSoftware/obj/Debug/net5.0/IdSoftware.GeneratedMSBuildEditorConfig.editorconfig
+/home/rafael/Área de Trabalho/IdSoftware/obj/Debug/net5.0/IdSoftware.AssemblyInfoInputs.cache
+/home/rafael/Área de Trabalho/IdSoftware/obj/Debug/net5.0/IdSoftware.AssemblyInfo.cs
+/home/rafael/Área de Trabalho/IdSoftware/obj/Debug/net5.0/IdSoftware.csproj.CoreCompileInputs.cache
+/home/rafael/Área de Trabalho/IdSoftware/obj/Debug/net5.0/IdSoftware.MvcApplicationPartsAssemblyInfo.cache
+/home/rafael/Área de Trabalho/IdSoftware/obj/Debug/net5.0/IdSoftware.RazorAssemblyInfo.cache
+/home/rafael/Área de Trabalho/IdSoftware/obj/Debug/net5.0/IdSoftware.RazorAssemblyInfo.cs
+/home/rafael/Área de Trabalho/IdSoftware/obj/Debug/net5.0/staticwebassets/IdSoftware.StaticWebAssets.Manifest.cache
+/home/rafael/Área de Trabalho/IdSoftware/obj/Debug/net5.0/staticwebassets/IdSoftware.StaticWebAssets.xml
+/home/rafael/Área de Trabalho/IdSoftware/obj/Debug/net5.0/scopedcss/bundle/IdSoftware.styles.css
+/home/rafael/Área de Trabalho/IdSoftware/obj/Debug/net5.0/IdSoftware.TagHelpers.input.cache
+/home/rafael/Área de Trabalho/IdSoftware/obj/Debug/net5.0/IdSoftware.TagHelpers.output.cache
+/home/rafael/Área de Trabalho/IdSoftware/obj/Debug/net5.0/IdSoftware.RazorCoreGenerate.cache
+/home/rafael/Área de Trabalho/IdSoftware/obj/Debug/net5.0/Razor/Views/Home/Index.cshtml.g.cs
+/home/rafael/Área de Trabalho/IdSoftware/obj/Debug/net5.0/Razor/Views/Shared/Error.cshtml.g.cs
+/home/rafael/Área de Trabalho/IdSoftware/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs
+/home/rafael/Área de Trabalho/IdSoftware/obj/Debug/net5.0/Razor/Views/_ViewImports.cshtml.g.cs
+/home/rafael/Área de Trabalho/IdSoftware/obj/Debug/net5.0/Razor/Views/_ViewStart.cshtml.g.cs
+/home/rafael/Área de Trabalho/IdSoftware/obj/Debug/net5.0/IdSoftware.RazorTargetAssemblyInfo.cache
+/home/rafael/Área de Trabalho/IdSoftware/obj/Debug/net5.0/IdSoftware.RazorTargetAssemblyInfo.cs
+/home/rafael/Área de Trabalho/IdSoftware/obj/Debug/net5.0/IdSoftware.Views.pdb
+/home/rafael/Área de Trabalho/IdSoftware/obj/Debug/net5.0/IdSoftware.dll
+/home/rafael/Área de Trabalho/IdSoftware/obj/Debug/net5.0/ref/IdSoftware.dll
+/home/rafael/Área de Trabalho/IdSoftware/obj/Debug/net5.0/IdSoftware.pdb
+/home/rafael/Área de Trabalho/IdSoftware/obj/Debug/net5.0/IdSoftware.genruntimeconfig.cache
+/home/rafael/Área de Trabalho/IdSoftware/obj/Debug/net5.0/IdSoftware.csproj.CopyComplete
+/home/rafael/Downloads/IdSoftware/bin/Debug/net5.0/appsettings.Development.json
+/home/rafael/Downloads/IdSoftware/bin/Debug/net5.0/appsettings.json
+/home/rafael/Downloads/IdSoftware/bin/Debug/net5.0/IdSoftware
+/home/rafael/Downloads/IdSoftware/bin/Debug/net5.0/IdSoftware.deps.json
+/home/rafael/Downloads/IdSoftware/bin/Debug/net5.0/IdSoftware.runtimeconfig.json
+/home/rafael/Downloads/IdSoftware/bin/Debug/net5.0/IdSoftware.runtimeconfig.dev.json
+/home/rafael/Downloads/IdSoftware/bin/Debug/net5.0/IdSoftware.dll
+/home/rafael/Downloads/IdSoftware/bin/Debug/net5.0/ref/IdSoftware.dll
+/home/rafael/Downloads/IdSoftware/bin/Debug/net5.0/IdSoftware.pdb
+/home/rafael/Downloads/IdSoftware/bin/Debug/net5.0/IdSoftware.Views.dll
+/home/rafael/Downloads/IdSoftware/bin/Debug/net5.0/IdSoftware.Views.pdb
+/home/rafael/Downloads/IdSoftware/obj/Debug/net5.0/IdSoftware.csprojAssemblyReference.cache
+/home/rafael/Downloads/IdSoftware/obj/Debug/net5.0/IdSoftware.GeneratedMSBuildEditorConfig.editorconfig
+/home/rafael/Downloads/IdSoftware/obj/Debug/net5.0/IdSoftware.AssemblyInfoInputs.cache
+/home/rafael/Downloads/IdSoftware/obj/Debug/net5.0/IdSoftware.AssemblyInfo.cs
+/home/rafael/Downloads/IdSoftware/obj/Debug/net5.0/IdSoftware.csproj.CoreCompileInputs.cache
+/home/rafael/Downloads/IdSoftware/obj/Debug/net5.0/IdSoftware.MvcApplicationPartsAssemblyInfo.cache
+/home/rafael/Downloads/IdSoftware/obj/Debug/net5.0/IdSoftware.RazorAssemblyInfo.cache
+/home/rafael/Downloads/IdSoftware/obj/Debug/net5.0/IdSoftware.RazorAssemblyInfo.cs
+/home/rafael/Downloads/IdSoftware/obj/Debug/net5.0/staticwebassets/IdSoftware.StaticWebAssets.Manifest.cache
+/home/rafael/Downloads/IdSoftware/obj/Debug/net5.0/staticwebassets/IdSoftware.StaticWebAssets.xml
+/home/rafael/Downloads/IdSoftware/obj/Debug/net5.0/scopedcss/bundle/IdSoftware.styles.css
+/home/rafael/Downloads/IdSoftware/obj/Debug/net5.0/IdSoftware.TagHelpers.input.cache
+/home/rafael/Downloads/IdSoftware/obj/Debug/net5.0/IdSoftware.TagHelpers.output.cache
+/home/rafael/Downloads/IdSoftware/obj/Debug/net5.0/IdSoftware.RazorCoreGenerate.cache
+/home/rafael/Downloads/IdSoftware/obj/Debug/net5.0/Razor/Views/Home/Index.cshtml.g.cs
+/home/rafael/Downloads/IdSoftware/obj/Debug/net5.0/Razor/Views/Shared/Error.cshtml.g.cs
+/home/rafael/Downloads/IdSoftware/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs
+/home/rafael/Downloads/IdSoftware/obj/Debug/net5.0/Razor/Views/_ViewImports.cshtml.g.cs
+/home/rafael/Downloads/IdSoftware/obj/Debug/net5.0/Razor/Views/_ViewStart.cshtml.g.cs
+/home/rafael/Downloads/IdSoftware/obj/Debug/net5.0/IdSoftware.RazorTargetAssemblyInfo.cache
+/home/rafael/Downloads/IdSoftware/obj/Debug/net5.0/IdSoftware.RazorTargetAssemblyInfo.cs
+/home/rafael/Downloads/IdSoftware/obj/Debug/net5.0/IdSoftware.Views.pdb
+/home/rafael/Downloads/IdSoftware/obj/Debug/net5.0/IdSoftware.dll
+/home/rafael/Downloads/IdSoftware/obj/Debug/net5.0/ref/IdSoftware.dll
+/home/rafael/Downloads/IdSoftware/obj/Debug/net5.0/IdSoftware.pdb
+/home/rafael/Downloads/IdSoftware/obj/Debug/net5.0/IdSoftware.genruntimeconfig.cache
+/home/rafael/Downloads/IdSoftware/obj/Debug/net5.0/IdSoftware.csproj.CopyComplete
+/home/rafael/Downloads/IdSoftware/obj/Debug/net5.0/Razor/Views/Home/_CardProjeto.cshtml.g.cs
+/home/rafael/Downloads/IdSoftware/obj/Debug/net5.0/Razor/Views/Home/_ModalConfirmacao.cshtml.g.cs
+/home/rafael/Downloads/Projetos/IdSoftware/bin/Debug/net5.0/appsettings.Development.json
+/home/rafael/Downloads/Projetos/IdSoftware/bin/Debug/net5.0/appsettings.json
+/home/rafael/Downloads/Projetos/IdSoftware/bin/Debug/net5.0/IdSoftware
+/home/rafael/Downloads/Projetos/IdSoftware/bin/Debug/net5.0/IdSoftware.deps.json
+/home/rafael/Downloads/Projetos/IdSoftware/bin/Debug/net5.0/IdSoftware.runtimeconfig.json
+/home/rafael/Downloads/Projetos/IdSoftware/bin/Debug/net5.0/IdSoftware.runtimeconfig.dev.json
+/home/rafael/Downloads/Projetos/IdSoftware/bin/Debug/net5.0/IdSoftware.dll
+/home/rafael/Downloads/Projetos/IdSoftware/bin/Debug/net5.0/ref/IdSoftware.dll
+/home/rafael/Downloads/Projetos/IdSoftware/bin/Debug/net5.0/IdSoftware.pdb
+/home/rafael/Downloads/Projetos/IdSoftware/bin/Debug/net5.0/IdSoftware.Views.dll
+/home/rafael/Downloads/Projetos/IdSoftware/bin/Debug/net5.0/IdSoftware.Views.pdb
+/home/rafael/Downloads/Projetos/IdSoftware/obj/Debug/net5.0/IdSoftware.csprojAssemblyReference.cache
+/home/rafael/Downloads/Projetos/IdSoftware/obj/Debug/net5.0/IdSoftware.GeneratedMSBuildEditorConfig.editorconfig
+/home/rafael/Downloads/Projetos/IdSoftware/obj/Debug/net5.0/IdSoftware.AssemblyInfoInputs.cache
+/home/rafael/Downloads/Projetos/IdSoftware/obj/Debug/net5.0/IdSoftware.AssemblyInfo.cs
+/home/rafael/Downloads/Projetos/IdSoftware/obj/Debug/net5.0/IdSoftware.csproj.CoreCompileInputs.cache
+/home/rafael/Downloads/Projetos/IdSoftware/obj/Debug/net5.0/IdSoftware.MvcApplicationPartsAssemblyInfo.cache
+/home/rafael/Downloads/Projetos/IdSoftware/obj/Debug/net5.0/IdSoftware.RazorAssemblyInfo.cache
+/home/rafael/Downloads/Projetos/IdSoftware/obj/Debug/net5.0/IdSoftware.RazorAssemblyInfo.cs
+/home/rafael/Downloads/Projetos/IdSoftware/obj/Debug/net5.0/staticwebassets/IdSoftware.StaticWebAssets.Manifest.cache
+/home/rafael/Downloads/Projetos/IdSoftware/obj/Debug/net5.0/staticwebassets/IdSoftware.StaticWebAssets.xml
+/home/rafael/Downloads/Projetos/IdSoftware/obj/Debug/net5.0/scopedcss/bundle/IdSoftware.styles.css
+/home/rafael/Downloads/Projetos/IdSoftware/obj/Debug/net5.0/IdSoftware.TagHelpers.input.cache
+/home/rafael/Downloads/Projetos/IdSoftware/obj/Debug/net5.0/IdSoftware.TagHelpers.output.cache
+/home/rafael/Downloads/Projetos/IdSoftware/obj/Debug/net5.0/IdSoftware.RazorCoreGenerate.cache
+/home/rafael/Downloads/Projetos/IdSoftware/obj/Debug/net5.0/Razor/Views/Home/Index.cshtml.g.cs
+/home/rafael/Downloads/Projetos/IdSoftware/obj/Debug/net5.0/Razor/Views/Home/_CardProjeto.cshtml.g.cs
+/home/rafael/Downloads/Projetos/IdSoftware/obj/Debug/net5.0/Razor/Views/Home/_ModalConfirmacao.cshtml.g.cs
+/home/rafael/Downloads/Projetos/IdSoftware/obj/Debug/net5.0/Razor/Views/Shared/Error.cshtml.g.cs
+/home/rafael/Downloads/Projetos/IdSoftware/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs
+/home/rafael/Downloads/Projetos/IdSoftware/obj/Debug/net5.0/Razor/Views/_ViewImports.cshtml.g.cs
+/home/rafael/Downloads/Projetos/IdSoftware/obj/Debug/net5.0/Razor/Views/_ViewStart.cshtml.g.cs
+/home/rafael/Downloads/Projetos/IdSoftware/obj/Debug/net5.0/IdSoftware.RazorTargetAssemblyInfo.cache
+/home/rafael/Downloads/Projetos/IdSoftware/obj/Debug/net5.0/IdSoftware.RazorTargetAssemblyInfo.cs
+/home/rafael/Downloads/Projetos/IdSoftware/obj/Debug/net5.0/IdSoftware.Views.pdb
+/home/rafael/Downloads/Projetos/IdSoftware/obj/Debug/net5.0/IdSoftware.dll
+/home/rafael/Downloads/Projetos/IdSoftware/obj/Debug/net5.0/ref/IdSoftware.dll
+/home/rafael/Downloads/Projetos/IdSoftware/obj/Debug/net5.0/IdSoftware.pdb
+/home/rafael/Downloads/Projetos/IdSoftware/obj/Debug/net5.0/IdSoftware.genruntimeconfig.cache
+/home/rafael/Downloads/Projetos/IdSoftware/obj/Debug/net5.0/IdSoftware.csproj.CopyComplete
+/home/rafael/Downloads/Projetos/idsoftware-bootstrap-learning/bin/Debug/net5.0/appsettings.Development.json
+/home/rafael/Downloads/Projetos/idsoftware-bootstrap-learning/bin/Debug/net5.0/appsettings.json
+/home/rafael/Downloads/Projetos/idsoftware-bootstrap-learning/bin/Debug/net5.0/IdSoftware
+/home/rafael/Downloads/Projetos/idsoftware-bootstrap-learning/bin/Debug/net5.0/IdSoftware.deps.json
+/home/rafael/Downloads/Projetos/idsoftware-bootstrap-learning/bin/Debug/net5.0/IdSoftware.runtimeconfig.json
+/home/rafael/Downloads/Projetos/idsoftware-bootstrap-learning/bin/Debug/net5.0/IdSoftware.runtimeconfig.dev.json
+/home/rafael/Downloads/Projetos/idsoftware-bootstrap-learning/bin/Debug/net5.0/IdSoftware.dll
+/home/rafael/Downloads/Projetos/idsoftware-bootstrap-learning/bin/Debug/net5.0/ref/IdSoftware.dll
+/home/rafael/Downloads/Projetos/idsoftware-bootstrap-learning/bin/Debug/net5.0/IdSoftware.pdb
+/home/rafael/Downloads/Projetos/idsoftware-bootstrap-learning/bin/Debug/net5.0/IdSoftware.Views.dll
+/home/rafael/Downloads/Projetos/idsoftware-bootstrap-learning/bin/Debug/net5.0/IdSoftware.Views.pdb
+/home/rafael/Downloads/Projetos/idsoftware-bootstrap-learning/obj/Debug/net5.0/IdSoftware.csprojAssemblyReference.cache
+/home/rafael/Downloads/Projetos/idsoftware-bootstrap-learning/obj/Debug/net5.0/IdSoftware.GeneratedMSBuildEditorConfig.editorconfig
+/home/rafael/Downloads/Projetos/idsoftware-bootstrap-learning/obj/Debug/net5.0/IdSoftware.AssemblyInfoInputs.cache
+/home/rafael/Downloads/Projetos/idsoftware-bootstrap-learning/obj/Debug/net5.0/IdSoftware.AssemblyInfo.cs
+/home/rafael/Downloads/Projetos/idsoftware-bootstrap-learning/obj/Debug/net5.0/IdSoftware.csproj.CoreCompileInputs.cache
+/home/rafael/Downloads/Projetos/idsoftware-bootstrap-learning/obj/Debug/net5.0/IdSoftware.MvcApplicationPartsAssemblyInfo.cache
+/home/rafael/Downloads/Projetos/idsoftware-bootstrap-learning/obj/Debug/net5.0/IdSoftware.RazorAssemblyInfo.cache
+/home/rafael/Downloads/Projetos/idsoftware-bootstrap-learning/obj/Debug/net5.0/IdSoftware.RazorAssemblyInfo.cs
+/home/rafael/Downloads/Projetos/idsoftware-bootstrap-learning/obj/Debug/net5.0/staticwebassets/IdSoftware.StaticWebAssets.Manifest.cache
+/home/rafael/Downloads/Projetos/idsoftware-bootstrap-learning/obj/Debug/net5.0/staticwebassets/IdSoftware.StaticWebAssets.xml
+/home/rafael/Downloads/Projetos/idsoftware-bootstrap-learning/obj/Debug/net5.0/scopedcss/bundle/IdSoftware.styles.css
+/home/rafael/Downloads/Projetos/idsoftware-bootstrap-learning/obj/Debug/net5.0/IdSoftware.TagHelpers.input.cache
+/home/rafael/Downloads/Projetos/idsoftware-bootstrap-learning/obj/Debug/net5.0/IdSoftware.TagHelpers.output.cache
+/home/rafael/Downloads/Projetos/idsoftware-bootstrap-learning/obj/Debug/net5.0/IdSoftware.RazorCoreGenerate.cache
+/home/rafael/Downloads/Projetos/idsoftware-bootstrap-learning/obj/Debug/net5.0/Razor/Views/Home/Index.cshtml.g.cs
+/home/rafael/Downloads/Projetos/idsoftware-bootstrap-learning/obj/Debug/net5.0/Razor/Views/Home/_CardProjeto.cshtml.g.cs
+/home/rafael/Downloads/Projetos/idsoftware-bootstrap-learning/obj/Debug/net5.0/Razor/Views/Home/_ModalConfirmacao.cshtml.g.cs
+/home/rafael/Downloads/Projetos/idsoftware-bootstrap-learning/obj/Debug/net5.0/Razor/Views/Shared/Error.cshtml.g.cs
+/home/rafael/Downloads/Projetos/idsoftware-bootstrap-learning/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs
+/home/rafael/Downloads/Projetos/idsoftware-bootstrap-learning/obj/Debug/net5.0/Razor/Views/_ViewImports.cshtml.g.cs
+/home/rafael/Downloads/Projetos/idsoftware-bootstrap-learning/obj/Debug/net5.0/Razor/Views/_ViewStart.cshtml.g.cs
+/home/rafael/Downloads/Projetos/idsoftware-bootstrap-learning/obj/Debug/net5.0/IdSoftware.RazorTargetAssemblyInfo.cache
+/home/rafael/Downloads/Projetos/idsoftware-bootstrap-learning/obj/Debug/net5.0/IdSoftware.RazorTargetAssemblyInfo.cs
+/home/rafael/Downloads/Projetos/idsoftware-bootstrap-learning/obj/Debug/net5.0/IdSoftware.Views.pdb
+/home/rafael/Downloads/Projetos/idsoftware-bootstrap-learning/obj/Debug/net5.0/IdSoftware.dll
+/home/rafael/Downloads/Projetos/idsoftware-bootstrap-learning/obj/Debug/net5.0/ref/IdSoftware.dll
+/home/rafael/Downloads/Projetos/idsoftware-bootstrap-learning/obj/Debug/net5.0/IdSoftware.pdb
+/home/rafael/Downloads/Projetos/idsoftware-bootstrap-learning/obj/Debug/net5.0/IdSoftware.genruntimeconfig.cache
+/home/rafael/Downloads/Projetos/idsoftware-bootstrap-learning/obj/Debug/net5.0/IdSoftware.csproj.CopyComplete
